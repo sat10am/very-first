@@ -16,10 +16,10 @@ JS Study Summary
 6. 작동 위임
 
 ### 2장
-1. 비동기성: 지금과 나중
+1. [비동기성: 지금과 나중](https://slides.com/jwoos/asynchrony/live#/)
 2. [콜백](https://www.slideshare.net/JangHeeLee1/call-back-119282975)
 3. 프라미스
-4. [제네레이터1](https://github.com/sat10am/summary/raw/master/YOU_DONT_KNOW_JS-2/2%EC%9E%A5/Chapter4-1.pptx) / [제네레이터2](https://slides.com/chany/generator-d-5-9/live#/)
+4. [제네레이터1](https://slides.com/jwoos/generator/live#/) / [제네레이터2](https://slides.com/chany/generator-d-5-9/live#/)
 5. 프로그램 성능
 6. 벤치마킹과 튜닝
 
