@@ -24,4 +24,4 @@ JS Study Summary
 6. 벤치마킹과 튜닝
 
 ### 부록
-- ES6 class
+- [ES6 class](https://slides.com/jwoos/class/live#/)
