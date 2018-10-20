@@ -13,7 +13,7 @@ JS Study Summary
 3. [객체](YOU-DONT-KNOW-JS-1/1장/Chapter3.md)
 4. 클래스와 객체의 혼합
 5. 프로토타입
-6. 작동 위임
+6. [작동 위임](https://slides.com/doondoon/behavior-delegation)
 
 ### 2장
 1. [비동기성: 지금과 나중](https://slides.com/jwoos/asynchrony/live#/)
