@@ -8,8 +8,8 @@ JS Study Summary
 ## YOU DON'T KNOW JS : this와 객체 프로토타입, 비동기와 성능
 ---
 ### 1장
-1. this라나 뭐라나
-2. this가 이런 거로군!
+1. [this라나 뭐라나](https://speakerdeck.com/doondoony/javascript-this-180818-doondoony)
+2. [this가 이런 거로군!](https://speakerdeck.com/doondoony/javascript-this-180818-doondoony)
 3. [객체](YOU-DONT-KNOW-JS-1/1장/Chapter3.md)
 4. 클래스와 객체의 혼합
 5. 프로토타입
