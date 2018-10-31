@@ -17,7 +17,7 @@ JS Study Summary
 4. 호이스팅
 5. 스코프 클로저
 
-#### 부록
+### 부록
 appendix A. 다양한 환경의 자바스크립트
 appendix B. 스코프와 렉시컬 this
 
