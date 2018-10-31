@@ -18,8 +18,8 @@ JS Study Summary
 5. 스코프 클로저
 
 ### 부록
-appendix A. 다양한 환경의 자바스크립트
-appendix B. 스코프와 렉시컬 this
+- appendix A. 다양한 환경의 자바스크립트
+- appendix B. 스코프와 렉시컬 this
 
 
 # YOU DON'T KNOW JS : this와 객체 프로토타입, 비동기와 성능
