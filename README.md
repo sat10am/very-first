@@ -42,3 +42,11 @@ JS Study Summary
 
 ### 부록
 - [ES6 class](https://slides.com/jwoos/class/live#/)
+
+
+# JavaScript 자유 발표
+
+### 1주차
+- 이장희 : [제너레이터](https://www.slideshare.net/JangHeeLee1/generator-121669310)
+- 권기웅 : [JavaScript Object](https://velog.io/@doondoony/JavaScript-Object)
+- 홍승우 : [JavaScript Design Pattern](https://slides.com/alwls601/deck-1#/)
