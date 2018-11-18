@@ -60,3 +60,8 @@ JS Study Summary
 ### 2주차 
 - [Javascript Prototype](https://slides.com/doondoon/javascript-prototype/fullscreen#/)
 - [Why This?](https://www.notion.so/dali0310/WHY-THIS-567ed6e52d894c9e8722d768348b8f38) 
+
+### 3주차 
+- [html5 canvas](https://slides.com/leejaemin/canvas#/)
+- [Javascript Test](https://slides.com/jwoos/test#/)
+- [동기-비동기](https://drive.google.com/file/d/1eD7Czw8Fyu67w0NOBmO_2eB-pEA_a3o4/view)
