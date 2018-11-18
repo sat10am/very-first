@@ -53,6 +53,10 @@ JS Study Summary
 
 ### 1주차
 
-- 이장희 : [제너레이터](https://www.slideshare.net/JangHeeLee1/generator-121669310)
-- 권기웅 : [JavaScript Object](https://velog.io/@doondoony/JavaScript-Object)
-- 홍승우 : [JavaScript Design Pattern](https://slides.com/alwls601/deck-1#/)
+- [제너레이터](https://www.slideshare.net/JangHeeLee1/generator-121669310)
+- [JavaScript Object](https://velog.io/@doondoony/JavaScript-Object)
+- [JavaScript Design Pattern](https://slides.com/alwls601/deck-1#/)
+
+### 2주차 
+- [Javascript Prototype](https://slides.com/doondoon/javascript-prototype/fullscreen#/)
+- [Why This?](https://www.notion.so/dali0310/WHY-THIS-567ed6e52d894c9e8722d768348b8f38) 
