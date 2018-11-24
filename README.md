@@ -64,4 +64,4 @@ JS Study Summary
 ### 3주차 
 - [html5 canvas](https://slides.com/leejaemin/canvas#/)
 - [Javascript Test](https://slides.com/jwoos/test#/)
-- [동기-비동기](https://drive.google.com/file/d/1eD7Czw8Fyu67w0NOBmO_2eB-pEA_a3o4/view)
+- [동기-비동기]
