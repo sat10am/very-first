@@ -76,3 +76,7 @@ JS Study Summary
 - [JavaScript Module System](https://www.notion.so/doondoony/JavaScript-Module-System-f059f7bc298f40d8aea7bd7a34ba64ad)
 - [브라우저의 작동 원리]()
 - [크롬 익스텐션]()
+
+### 7주차
+- [JavaScript Memory Management](https://slides.com/jwoos/memory#/)
+- [AngularJS]()
